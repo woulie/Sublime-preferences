@@ -1,0 +1,17 @@
+/*
+   GutterColor Default Settings
+*/
+
+{
+
+ /*
+  * The location of the ImageMagic convert script.
+  */
+ "convert_path" : "C:\\progra~1\\ImageMagick-6.8.9-Q16\\convert.exe",
+
+ /*
+  * The syntax for which to run GutterColor.
+  */
+ "supported_syntax": ["css", "scss", "sass", "less"]
+
+}
